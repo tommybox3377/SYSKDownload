@@ -41,8 +41,8 @@ def download(file):
 
 def dl_all_podcast(path):
     make_list_of_podcast()
-    download(mp3s[0])
-    download(mp3s[1])
+    # download(mp3s[0])
+    # download(mp3s[1])
 
 
 dl_all_podcast('t')
